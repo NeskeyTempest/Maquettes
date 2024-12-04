@@ -1,0 +1,27 @@
+* {
+    margin: 0
+}
+header{
+    background-image: url(bg_header.jpg);
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+.li {
+    color: white;
+    
+}
+.Titreheader{
+    color: white;
+}
+.Texteheader{
+    color: white;
+}
+
+
+
